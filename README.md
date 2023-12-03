@@ -29,4 +29,5 @@ In case of using CAD models as inputs, the HICA requires a CAD processing softwa
 
 Note: The proposed software was configured by default to operate with .JPG images. However, additional image formats such as .PNG, .TIFF among others are supported, if they are not encrypted.
 ![HICA display](https://github.com/brsordk/HICA/assets/109208822/089dd8b5-334a-4635-98b4-579f5e13b740)
+
 Figure 1. The display of the HICA.m file
