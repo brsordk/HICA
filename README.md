@@ -17,5 +17,5 @@ In case of using CAD models as inputs, the HICA requires a CAD processing softwa
 -	The CAD tool is able to export images of CAD models automatically (e.g., SolidWorks Task Scheduler)
 -	The default template of the CAD tool is set to have no shadow and no background graphics.
 
-
-
+### Instructions to Run the Software
+**Step 1:** Ensure you have the newest version of MATLAB and a CAD software are installed on your computer. Install the aforementioned toolboxes as MATLAB add-ins. Then, use the CAD software you have installed in your computer to extract images from CAD models. Below you can find the steps to export images using SOLIDWORKS Task Scheduler, but you can use another CAD software to acquire the images.
