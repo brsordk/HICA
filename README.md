@@ -41,3 +41,12 @@ Note: The proposed software was configured by default to operate with .JPG image
 
 <div align="center"><img src="Images/HICA with cluster number highlighted.JPG"></div>
 <p align="center">Figure 3. Argument section of HICA.m with cluster number highlighted
+
+Then, to execute HICA.m, simply click on the "run" button in the MATLAB environment. After executing the code, the HICA.m will generate up to six figures based on the cluster number selected in this step. The following figures are the outputs of the algorithm:
+
+-	Figure 1: Resulting dendrogram with different clusters
+-	Figure 2: Images that are in Cluster 1
+-	Figure 3: Images that are in Cluster 2
+-	Figure 4: Images that are in Cluster 3
+-	Figure 5: Images that are in Cluster 4
+-	Figure 6: Images that are in Cluster 5
