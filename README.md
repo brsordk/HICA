@@ -31,3 +31,8 @@ Note: The proposed software was configured by default to operate with .JPG image
 
 <div align="center"><img src="Images/HICA display.JPG"></div>
 <p align="center">Figure 1. The display of the HICA.m file
+
+  **Step 3:** After opening the HICA.m, specify the location of the image folder by copying it from your computer’s directory. Simply, paste the image folder directory to replace the highlighted text in Figure 2. 
+
+<div align="center"><img src="Images/HICA with image directory highlighted.JPG"></div>
+<p align="center">Figure 2. Arguments section of HICA.m file with image directory highlighted
