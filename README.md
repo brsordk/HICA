@@ -16,3 +16,5 @@ In case of using CAD models as inputs, the HICA requires a CAD processing softwa
 
 -	The CAD tool is able to export images of CAD models automatically (e.g., SolidWorks Task Scheduler)
 -	The default template of the CAD tool is set to have no shadow and no background graphics.
+
+https://github.com/brsordk/HICA/issues/1#issue-2022567451
