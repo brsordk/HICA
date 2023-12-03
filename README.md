@@ -10,6 +10,7 @@ HICA is developed using a CAD software and MATLAB R2022b; hence, system requirem
 -	Computer Vision Toolbox 
 -	Image Processing Toolbox
 
+It is recommended to install the newest version of MATLAB software.
 In case of using CAD models as inputs, the HICA requires a CAD processing software with the following properties:
 
 -	The CAD tool is able to export images of CAD models automatically (e.g., SolidWorks Task Scheduler)
