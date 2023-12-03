@@ -52,3 +52,4 @@ Then, to execute HICA.m, simply click on the "run" button in the MATLAB environm
 -	Figure 6: Images that are in Cluster 5
 
 The algorithm also saves and exports an “.XLSX” file containing clusters of each image in the dataset.
+**EXAMPLE:** Clustering 20 parts that contain CAD and JPG files.
