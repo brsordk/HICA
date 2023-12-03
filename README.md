@@ -19,3 +19,8 @@ In case of using CAD models as inputs, the HICA requires a CAD processing softwa
 
 ### Instructions to Run the Software
 **Step 1:** Ensure you have the newest version of MATLAB and a CAD software are installed on your computer. Install the aforementioned toolboxes as MATLAB add-ins. Then, use the CAD software you have installed in your computer to extract images from CAD models. Below you can find the steps to export images using SOLIDWORKS Task Scheduler, but you can use another CAD software to acquire the images.
+-	Open SOLIDWORKS and set the default template properties as no background and no shadow
+-	Open SOLIDWORKS Task Scheduler
+-	Select the folder that contains the CAD models
+-	Specify the extracted file type as image (e.g., jpeg or PNG)
+-	Specify the folder to save the extracted images
