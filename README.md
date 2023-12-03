@@ -36,3 +36,8 @@ Note: The proposed software was configured by default to operate with .JPG image
 
 <div align="center"><img src="Images/HICA with image directory highlighted.JPG"></div>
 <p align="center">Figure 2. Arguments section of HICA.m file with image directory highlighted
+
+**Step 4:** Insert the cluster number instead of the highlighted text shown in Figure 3. The HICA algorithm can generate up to 5 clusters of parts.
+
+<div align="center"><img src="Images/HICA with cluster number highlighted.JPG"></div>
+<p align="center">Figure 3. Argument section of HICA.m with cluster number highlighted
