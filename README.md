@@ -81,3 +81,7 @@ Finally, the following figures are obtained. Figure 6 shows the resulting dendro
 
 <div align="center"><img src="Images/Cluster 2.jpg"></div>
 <p align="center">Figure 8. Cluster 2
+
+## LICENSE
+
+GNU General Public License v3.0
