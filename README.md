@@ -59,3 +59,25 @@ The algorithm also saves and exports an “.XLSX” file containing clusters of 
 
 <div align="center"><img src="Images/Task scheduler.JPG"></div>
 <p align="center">Figure 4. SOLIDWORKS Task Scheduler
+
+Then, the Export File window will open as shown in Figure 5. Select the folder that contains the CAD models and specify the file type as an image (e.g., .JPG or .PNG). Finally, click Finish. The Task Scheduler will automatically export images into the same folder. Alternatively, you can specify another folder to store the exported images.
+
+<div align="center"><img src="Images/Task scheduler file location.jpg"></div>
+<p align="center">Figure 5. Export file window of SOLIDWORKS Task Scheduler
+
+**Step 2:** Download and open the file HICA.m.
+
+**Step 3:** Specify the image folder as mentioned above.
+
+**Step 4: **Specify the desired cluster number. In this example, we have selected the desired cluster number as 2. Then, the code is executed by clicking on Run in MATLAB.
+
+Finally, the following figures are obtained. Figure 6 shows the resulting dendrogram. Figures 7 and 8 show resulting cluster 1 and cluster 2, respectively.
+
+<div align="center"><img src="Images/Dendrogram.jpg"></div>
+<p align="center">Figure 6. Dendrogram
+
+<div align="center"><img src="Images/Cluster 1.jpg"></div>
+<p align="center">Figure 7. Cluster 1
+
+<div align="center"><img src="Images/Cluster 2.jpg"></div>
+<p align="center">Figure 8. Cluster 2
