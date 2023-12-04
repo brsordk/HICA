@@ -53,4 +53,9 @@ Then, to execute HICA.m, simply click on the "run" button in the MATLAB environm
 
 The algorithm also saves and exports an “.XLSX” file containing clusters of each image in the dataset.
 
-**EXAMPLE:** Clustering 20 parts that contain CAD and JPG files.
+**EXAMPLE:** Clustering 40 parts that contain CAD and JPG files, 15 CAD models and 25 Images.
+
+**Step 1: **Latest version of MATLAB R2023b is installed and the Statistics and Machine Learning Toolbox, Computer Vision Toolbox, and Image Processing Toolbox are installed as add-ins to MATLAB. SolidWorks Task Scheduler is used to convert CAD models into images as shown in Figure 4. Here, click on Export Files (highlighted in Figure 4).
+
+<div align="center"><img src="Images/Task scheduler.JPG"></div>
+<p align="center">Figure 4. SOLIDWORKS Task Scheduler
