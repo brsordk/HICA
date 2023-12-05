@@ -22,7 +22,7 @@ function HICA(Input,CN)
 % <Copyright>
 % Author:   Baris Ördek
 % Contact:  boerdek@unibz.it - barisordek@gmail.com
-% Update:   30/10/2023
+% Update:   05/12/2023
 % Version:  3.0.0
 % License: GNU General Public License v3.0
 
