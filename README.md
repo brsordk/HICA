@@ -69,7 +69,7 @@ Then, the Export File window will open as shown in Figure 5. Select the folder t
 
 **Step 3:** Specify the image folder as mentioned above.
 
-**Step 4: **Specify the desired cluster number. In this example, we have selected the desired cluster number as 2. Then, the code is executed by clicking on Run in MATLAB.
+**Step 4: ** Specify the desired cluster number. In this example, we have selected the desired cluster number as 2. Then, the code is executed by clicking on Run in MATLAB.
 
 Finally, the following figures are obtained. Figure 6 shows the resulting dendrogram. Figures 7 and 8 show resulting cluster 1 and cluster 2, respectively.
 
