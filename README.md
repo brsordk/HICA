@@ -76,7 +76,7 @@ Finally, the following figures are obtained. Figure 6 shows the resulting dendro
 <div align="center"><img src="Images/Dendrogram.jpg"></div>
 <p align="center">Figure 6. Dendrogram
 
-<div align="center"><img src="Images/AMvsTM_2.jpg"></div>
+<div align="center"><img src="Images/AMvsTM_2.JPG"></div> 
 <p align="center">Figure 7. The comparison between the actual manufacturing processes and the results of HICA algorithm
 
 
