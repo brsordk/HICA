@@ -76,11 +76,7 @@ Finally, the following figures are obtained. Figure 6 shows the resulting dendro
 <div align="center"><img src="Images/Dendrogram.jpg"></div>
 <p align="center">Figure 6. Dendrogram
 
-<div align="center"><img src="Images/Cluster 1.jpg"></div>
-<p align="center">Figure 7. Cluster 1
 
-<div align="center"><img src="Images/Cluster 2.jpg"></div>
-<p align="center">Figure 8. Cluster 2
 
 ## LICENSE
 
