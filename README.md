@@ -71,13 +71,20 @@ Then, the Export File window will open as shown in Figure 5. Select the folder t
 
 **Step 4:** Specify the desired cluster number. In this example, we have selected the desired cluster number as 2. Then, the code is executed by clicking on Run in MATLAB.
 
-Finally, the following figures are obtained. Figure 6 shows the resulting dendrogram. Figures 7 shows the comparison of the HICA results and the actual manufacturing processes.
+Finally, the following figures are obtained. Figure 6 shows the resulting dendrogram. Figures 7 and 8 show the resulting clusters as Cluster 1 and Cluster 2, respectively.
+Figures 9 shows the comparison of the HICA results and the actual manufacturing processes.
 
 <div align="center"><img src="Images/Dendrogram.jpg"></div>
 <p align="center">Figure 6. Dendrogram
 
+<div align="center"><img src="Images/Cluster 1.jpg"></div> 
+<p align="center">Figure 7. Cluster 1
+ 
+<div align="center"><img src="Images/Cluster 2.jpg"></div> 
+<p align="center">Figure 8. Cluster 2
+
 <div align="center"><img src="Images/AMvsTM_2.JPG"></div> 
-<p align="center">Figure 7. The comparison between the actual manufacturing processes and the results of HICA algorithm
+<p align="center">Figure 9. The comparison between the actual manufacturing processes and the results of HICA algorithm
 
 
 ## LICENSE
