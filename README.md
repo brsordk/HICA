@@ -90,3 +90,7 @@ Figures 9 shows the comparison of the HICA results and the actual manufacturing 
 ## LICENSE
 
 GNU General Public License v3.0
+
+## Related Paper
+
+Please cite the following paper if you use the algorithm in your research: https://doi.org/10.1016/j.softx.2024.101837
